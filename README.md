@@ -1,0 +1,1 @@
+This is a simple chat application built using RESTful APIs. The backend is powered by Node.js and Express.js, while MongoDB stores user and message data. The frontend is built using plain HTML, CSS, and JavaScript
