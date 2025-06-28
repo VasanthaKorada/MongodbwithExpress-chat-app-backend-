@@ -1,0 +1,16 @@
+body{
+    margin:left;
+}
+.chat{
+    background-color: green;
+    padding: 20px;
+    border-radius:16px;
+    display: inline-block;
+}
+.msg{
+    background-color: lightgreen;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+
+}
